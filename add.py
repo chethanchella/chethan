@@ -1,5 +1,4 @@
-int a=12
-int b=14
-int c
+a=12
+b=14
 c=a+b
 print c
